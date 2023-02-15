@@ -1,0 +1,1 @@
+ALTER TABLE Member ADD COLUMN age integer DEFAULT 0
